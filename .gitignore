@@ -1,2 +1,6 @@
 Epic_frontend/
 .history/
+
+# misc
+.DS_Store
+*.pem
